@@ -1,0 +1,14 @@
+Name of the student : Durjoy Chatterjee 
+Class Roll of the student : 17 
+Stream of the student : CSEAIML 
+Your Student ID is : CSEAIML2217
+
+Marks obtained in Math is : 97 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 99 
+Marks obtained in Chemistry is : 98 
+Marks obtained in Biology is : 95 
+Marks obtained in English is : 96 
+
+You have got 585 in total with 97%
+Outstanding Performance... You have passed the exam with grade A.

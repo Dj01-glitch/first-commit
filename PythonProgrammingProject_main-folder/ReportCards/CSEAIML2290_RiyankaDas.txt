@@ -1,0 +1,14 @@
+Name of the student : Riyanka Das 
+Class Roll of the student : 90 
+Stream of the student : CSEAIML 
+Your Student ID is : CSEAIML2290
+
+Marks obtained in Math is : 93 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 95 
+Marks obtained in Chemistry is : 96 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 99 
+
+You have got 581 in total with 96%
+Outstanding Performance... You have passed the exam with grade A.

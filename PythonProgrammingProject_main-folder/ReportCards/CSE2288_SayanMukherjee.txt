@@ -1,0 +1,14 @@
+Name of the student : Sayan Mukherjee 
+Class Roll of the student : 88 
+Stream of the student : CSE 
+Your Student ID is : CSE2288
+
+Marks obtained in Math is : 96 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 98 
+Marks obtained in Chemistry is : 92 
+Marks obtained in Biology is : 97 
+Marks obtained in English is : 95 
+
+You have got 578 in total with 96%
+Outstanding Performance... You have passed the exam with grade A.
